@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Ben Wengert
-Yang Fei
+author: Ben Wengert, Yang Fei
 show_sidebar: false
 ---
 
