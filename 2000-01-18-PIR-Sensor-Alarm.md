@@ -3,8 +3,8 @@ layout: project_template
 title: PIR Sensor Alarm
 description: Build an system that produces a noise when someone walks in front of it
 date: 2000-01-18 09:00:00
-hero_image: /web/img/PIR-Sensor-Alarm/open_house.png
-image: /web/img/PIR-Sensor-Alarm/open_house.png
+hero_image: /web/img/PIR-Sensor-Alarm/Hero.png
+image: /web/img/PIR-Sensor-Alarm/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
