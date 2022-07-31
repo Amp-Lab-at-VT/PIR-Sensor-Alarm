@@ -21,7 +21,7 @@ Ben Wengert
 Yang Fei
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/PIR-Sensor-Alarm"" >PIR-Sensor-Alarm</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/PIR-Sensor-Alarm" >PIR-Sensor-Alarm</a>
 
 ## Photo
 
